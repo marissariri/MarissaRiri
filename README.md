@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**marissariri/MarissaRiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm **Marissa Rahmania**, a passionate Data Scientist and Automation Engineer with a background in Robotics Process Automation (RPA), Machine Learning, and Artificial Intelligent.
 
-Here are some ideas to get you started:
+## 🌟 About Me
+- 🌱 Currently learning advanced data science and AI techniques.
+- 🎓 Master's Degree in Information Management.
+- 💻 Experienced in **Python**, **VBA**, and **Machine Learning**.
+- 🌍 Based in Taiwan, with a love for travel and exploring diverse cultures.
+- 📫 Reach me at **marissarahmania07@gmail.com**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 What I Do
+- Automate processes to improve efficiency using RPA and AI.
+- Build predictive models to derive actionable insights from data.
+- Create interactive dashboards to simplify data storytelling.
+
+## ⚡ Fun Fact
+I enjoy coding and milk tea equally ☕, and I love experimenting with new technologies!
+
+---
+
+### Connect with Me:
+- [LinkedIn](https://linkedin.com/in/marissa-rahmania)
+- [Instagram](https://www.instagram.com/marissariri/)
+
+
+
